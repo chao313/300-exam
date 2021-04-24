@@ -1,0 +1,11 @@
+frontCode/node_modules/
+frontCode/dist/
+frontCode/.project
+.idea/
+
+backgroundCode/*.iml
+backgroundCode/target/
+
+backgroundCode/mvnw
+backgroundCode/mvnw.cmd
+
